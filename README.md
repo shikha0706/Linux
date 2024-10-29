@@ -18,3 +18,6 @@ The primary objectives of developing the homepage for "My Restaurant" are as fol
 	Utilize Modern Web Technologies: Leverage HTML, CSS, and JavaScript to build a robust, interactive, and visually appealing website that meets contemporary web standards.
 
 	Build Brand Identity: Reflect the restaurant’s unique personality and values through thoughtful design elements, creating a strong brand presence that resonates with customers.
+![](output1.png)
+![](output2.png)
+![](output3.png)
